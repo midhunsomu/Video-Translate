@@ -49,4 +49,4 @@ Finally, adjust the settings as needed and enjoy the dubbing experience.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/midhunsomu/Video-Translate/blob/main/LICENSE).
