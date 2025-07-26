@@ -38,11 +38,13 @@ Finally, adjust the settings as needed and enjoy the dubbing experience.
 
 ## Example of Dubbing
 
-- Original Video: 
-https://github.com/user-attachments/assets/7c290622-a8a3-4015-b0b6-c7867ed8a6aa
+- Original Video:
+[[Original Video]](https://github.com/user-attachments/assets/7c290622-a8a3-4015-b0b6-c7867ed8a6aa)
 
-- Tamil Dubbed Version: 
-https://github.com/user-attachments/assets/af3d1d46-8be9-4953-bc0e-a91d288528ac
+- Tamil Dubbed Version:
+[[Tamil Dubbed Version]](https://github.com/user-attachments/assets/af3d1d46-8be9-4953-bc0e-a91d288528ac)
+
+
 
 
 ## License
